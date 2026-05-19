@@ -1,4 +1,6 @@
-﻿# Inventory Management System - Event Driven ASP.NET Core MVC
+###Test deploy- Inventory-Management.pro.et
+
+ # Inventory Management System - Event Driven ASP.NET Core MVC
 
 This project implements the **Inventory Management** option from the assignment brief, including core entities **Products, Suppliers, and Stock Levels** and the required events **StockLevelLowEvent**, **ProductReceivedEvent**, and **SupplierOrderPlacedEvent**.
 
