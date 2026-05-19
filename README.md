@@ -1,4 +1,4 @@
-###Test deploy- Inventory-Management.pro.et
+###Test deploy- [Inventory-Management.pro.et](https://Inventory-Management.pro.et)
 
  # Inventory Management System - Event Driven ASP.NET Core MVC
 
