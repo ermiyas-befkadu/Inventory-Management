@@ -81,10 +81,4 @@ Then open the local address shown in the terminal.
 
 ## Notes
 
-This project is built as an event-driven coursework implementation with durable persistence, dedicated event history views, and improved handler robustness. Update the team member list before submission.
-
-Not all parse errors were reported.  Correct the reported errors and try again.
-    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordEx 
-   ception
-    + FullyQualifiedErrorId : MissingExpressionAfterOperator
- 
+This project is built as an event-driven coursework implementation with durable persistence, dedicated event history views, and improved handler robustness.
